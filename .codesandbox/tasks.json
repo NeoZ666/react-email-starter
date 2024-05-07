@@ -11,8 +11,7 @@
   "tasks": {
     "build": {
       "name": "build",
-      "command": "npm run build",
-      "runAtStart": false
+      "command": "npm run build"
     },
     "dev": {
       "name": "dev",
@@ -21,8 +20,7 @@
     },
     "export": {
       "name": "export",
-      "command": "npm run export",
-      "runAtStart": false
+      "command": "npm run export"
     }
   }
 }
